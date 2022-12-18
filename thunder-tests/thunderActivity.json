@@ -1,0 +1,36 @@
+[
+  {
+    "_id": "4089c4ce-52a6-428e-8cf5-f19e18566131",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://127.0.0.1:3000/",
+    "url": "http://127.0.0.1:3000/",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2022-12-12T07:37:02.413Z",
+    "modified": "2022-12-12T07:37:02.413Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  },
+  {
+    "_id": "48c09277-272d-492c-b592-8fdb0b0a45e0",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://127.0.0.1:3000/?id",
+    "url": "http://127.0.0.1:3000/?id",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2022-12-12T07:37:25.842Z",
+    "modified": "2022-12-12T07:37:25.842Z",
+    "headers": [],
+    "params": [
+      {
+        "name": "id",
+        "value": "",
+        "isPath": false
+      }
+    ],
+    "tests": []
+  }
+]
